@@ -58,6 +58,12 @@ Contact me:
     </td>
     <td align="center" width="96">
       <a href="#skills">
+         <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Webpack" />
+      </a>
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <a href="#skills">
          <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" width="48" height="48" alt="Webpack" />
       </a>
       <br>Webpack
