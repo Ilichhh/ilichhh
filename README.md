@@ -76,14 +76,3 @@ Contact me:
     </td>
   </tr>
 </table>
-
-## Stats 🔥
-
-<a href="#title">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilichhh&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</a>
-<p>
-  <a href="#title">
-    <img src="https://www.codewars.com/users/ilichhh/badges/large"/>
-  </a>
-</p>
