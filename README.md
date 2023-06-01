@@ -62,6 +62,12 @@ Contact me:
       </a>
       <br>Redux
     </td>
+     <td align="center" width="96">
+      <a href="#skills">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>GraphQL
+    </td>
     <td align="center" width="96">
       <a href="#skills">
          <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Webpack" />
