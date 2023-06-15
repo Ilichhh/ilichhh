@@ -83,11 +83,5 @@ Contact me:
       </a>
       <br>Webpack
     </td>
-    <td align="center" width="96">
-      <a href="#skills">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
-      </a>
-      <br>Figma
-    </td>
   </tr>
 </table>
